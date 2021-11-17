@@ -15,7 +15,7 @@
 프로젝트 실행 파일 링크: https://drive.google.com/file/d/19P9M-UwSwhHyzdbDQEZJ9svXOnfDHB3l/view?usp=sharing  
   
   
-##### 사용 에셋 정보
+#### 사용 에셋 정보
 이 프로젝트는 다음의 유니티 에셋들을 사용하고 있다.  
 Oculus Integration,  
 Low Poly Park,  
@@ -23,7 +23,7 @@ Simple City pack plain,
 Pigeon    
   
   
-##### 사용 음원 정보
+#### 사용 음원 정보
 아래는 사용된 음원의 저작권이다.  
 -------------------------------------Copy Start-------------------------------------  
   
