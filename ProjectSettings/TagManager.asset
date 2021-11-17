@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Stone
+  - Img1
+  - Img2
+  - Img3
+  - Food
   layers:
   - Default
   - TransparentFX
@@ -17,7 +21,7 @@ TagManager:
   - Floor
   - Key
   - VRUI
-  - 
+  - PlayerCam
   - 
   - 
   - 
