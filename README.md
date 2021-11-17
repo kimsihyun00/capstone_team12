@@ -12,8 +12,11 @@ Pigeon
 2. 아래의 구글 드라이브 링크에 들어가 압축을 푼 후, Asset 폴더를 프로젝트에 포함한다.  
 구글 드라이브 링크:  
   
-프로젝트 실행을 위해서는 Build 브랜치를 다운받아 Capstone.exe를 실행하면 된다.  
+  
+프로젝트 실행을 위해서는 Build.zip을 아래 링크에서 다운받아 압축을 해제한 뒤 Capstone.exe를 실행하면 된다.  
 실행 시 Oculus 연결을 마치고 프로그램을 실행 중이어야 한다.  
+프로젝트 실행 파일 링크: https://drive.google.com/file/d/17m-Ne_w2vKj072JUdGJHU4Xk_Wuidq16/view?usp=sharing  
+  
   
 아래는 사용된 음원의 저작권이다.  
 -------------------------------------Copy Start-------------------------------------  
