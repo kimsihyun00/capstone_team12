@@ -1,4 +1,4 @@
-# start12_capstone_main
+# capstone_team12
 
 ### 프로젝트 유니티에서 열기
 유니티 2019.4.25f1 버전에서 제작되어 이 버전을 다운 받은 후 아래 두 가지를 수행하여 Unity Project를 실행한다.
