@@ -9,8 +9,8 @@
 구글 드라이브 링크: https://drive.google.com/file/d/16PjzRaa8Evhhtt10JRaAuJTKGQGQvd2g/view?usp=sharing  
   
 
-### 프로젝트 실행파일 다운하기
-프로젝트 실행을 위해서는 Build.zip을 아래 링크에서 다운받아 압축을 해제한 뒤 Capstone.exe를 실행하면 된다.  
+### 프로젝트 실행파일 다운하기(시제품실물)
+프로젝트 실행을 위해서는 OPMVR.zip을 아래 링크에서 다운받아 압축을 해제한 뒤 Capstone.exe를 실행하면 된다.  
 실행 시 Oculus 연결을 마치고 프로그램을 실행 중이어야 한다.  
 프로젝트 실행 파일 링크: https://drive.google.com/file/d/19P9M-UwSwhHyzdbDQEZJ9svXOnfDHB3l/view?usp=sharing  
   
